@@ -54,6 +54,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukirth-singh-gaur)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/gaur_sahaab/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://sukirthsportfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sukirthsinghgaur@yahoo.in)
+
 # 🚀 Featured Projects
 
 ### 📝 [BloggIt](https://project-bloggit.vercel.app/) — AI-Powered Blogging Platform
@@ -70,13 +77,6 @@ Redis-backed job queue with decoupled producers, concurrent workers, exponential
 > Chrome Extension · JavaScript · Python · Flask · Selenium · Docker
 
 Chrome extension + Flask backend that detects the currently playing Spotify track and injects lyrics directly into the page in real time. Containerized backend with health monitoring via extension popup.
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukirth-singh-gaur)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/gaur_sahaab/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://sukirthsportfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sukirthsinghgaur@yahoo.in)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sukirth-singh-gaur/sukirth-singh-gaur/output/github-contribution-grid-snake-dark.svg" />
