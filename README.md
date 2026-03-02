@@ -17,8 +17,6 @@
   <img src="https://readme-typing-svg.demolab.com/?size=24&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+%26+Systems+Thinker;AI+Integration+Enthusiast;Open+to+Opportunities+2026" />
 </p>
 
----
-
 # 💻 Tech Stack:
 
 **Languages**
@@ -56,8 +54,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
----
-
 # 🚀 Featured Projects
 
 ### 📝 [BloggIt](https://project-bloggit.vercel.app/) — AI-Powered Blogging Platform
@@ -75,8 +71,6 @@ Redis-backed job queue with decoupled producers, concurrent workers, exponential
 
 Chrome extension + Flask backend that detects the currently playing Spotify track and injects lyrics directly into the page in real time. Containerized backend with health monitoring via extension popup.
 
----
-
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukirth-singh-gaur)
@@ -84,26 +78,8 @@ Chrome extension + Flask backend that detects the currently playing Spotify trac
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://sukirthsportfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sukirthsinghgaur@yahoo.in)
 
----
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=sukirth-singh-gaur&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sukirth-singh-gaur&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sukirth-singh-gaur&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-### ✍️ Random Dev Quote <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=sukirth-singh-gaur&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sukirth-singh-gaur/sukirth-singh-gaur/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sukirth-singh-gaur/sukirth-singh-gaur/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/sukirth-singh-gaur/sukirth-singh-gaur/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sukirth-singh-gaur/sukirth-singh-gaur/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sukirth-singh-gaur/sukirth-singh-gaur/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sukirth-singh-gaur/sukirth-singh-gaur/output/github-contribution-grid-snake.svg" />
 </picture>
