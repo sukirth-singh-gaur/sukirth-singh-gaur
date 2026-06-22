@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"/>
 </p>
 
-# 💫 About Me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# About Me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 🔭 I'm currently building production-grade backend systems and AI-integrated web applications  
 🚀 My long-term goal is to join a high-growth product company and solve problems at scale  
